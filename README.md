@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hexrw" alt="hexrw" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Automation, GraphQL, AWS**
+- 🌱 I’m currently learning **DevOps, Automation, AWS**
 
 - 🤝 I’m looking for help with [Amazon Selling Partner API TypeScript client/SDK](https://github.com/hexrw/spapi)
 
